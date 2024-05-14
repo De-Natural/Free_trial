@@ -32,11 +32,13 @@ figure{
     justify-content: center;
 }
 figure h2{
-    font-size: 30px;
+    font-size: 40px;
     color: #fff;
+    margin-top: -10%;
 }
 figure p{
     margin-left: 25px;
+    margin-top: 5%;
 }
 .fold{
     height: 35px;
