@@ -35,8 +35,11 @@ figure h2{
     font-size: 30px;
     color: #fff;
 }
+figure p{
+    margin-left: 25px;
+}
 .fold{
-    height: 30px;
+    height: 35px;
     width: inherit;
     border-radius: 8px;
     background-color:  hsl(248, 32%, 49%);
@@ -67,6 +70,7 @@ form{
     flex-direction: column;
     gap: 20px;
     padding: 15px;
+    padding-top: 30px;
 }
 input{
     height: 36px;
@@ -78,9 +82,7 @@ input{
     height: 36px;
     font-size: 10px;
     outline: none;
-    border: 1px solid red;
-    /* display: flex;
-    justify-content: space-around; */
+    border: 1px solid gray;
     position: relative;
 }
 #paswrd{
